@@ -6,8 +6,21 @@
     <mapping directory="$PROJECT_DIR$/src/github.com/astaxie/beego" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/beego/bee" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/go-sql-driver/mysql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/go-xorm/xorm" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gorilla/securecookie" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/iris-contrib/httpexpect" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/julienschmidt/httprouter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/kataras/golog" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/kataras/iris" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/kataras/pio" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/konsorten/go-windows-terminal-sequences" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mediocregopher/radix.v2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/mgutz/str" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/mohae/deepcopy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/petermattis/goid" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/src/github.com/shiena/ansicolor" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/sirupsen/logrus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/xorm.io/builder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/xorm.io/core" vcs="Git" />
   </component>
 </project>
